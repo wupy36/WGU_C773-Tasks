@@ -1,0 +1,34 @@
+/*
+Primary Colors
+    Midnight Blue - #003B6D
+    Blue Sky- #6699CC
+
+Secondary Colors
+    Dim Gray - #676767
+    Silver - #BDBDBD
+*/
+
+header {
+    background-color: #bdbdbd;
+}
+
+nav {
+    background-color: #676767;
+}
+
+#about {
+    background-color: #bdbdbd;
+
+}
+
+#main {
+    background-color: #676767;
+}
+
+#contact {
+    background-color: #bdbdbd;
+}
+
+footer {
+    background-color: #676767;
+}
